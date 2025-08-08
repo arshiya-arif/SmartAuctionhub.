@@ -57,7 +57,8 @@ npm run dev
 
 
 **AutoBid**
-<img width="969" height="389" alt="image" src="https://github.com/user-attachments/assets/421b6734-cd71-4c34-b577-a0ad239f5b37" />
+<img width="2690" height="1080" alt="UpscaleImage_1_20250808" src="https://github.com/user-attachments/assets/fcc7d38b-9672-4a81-b891-dd0c57246458" />
+
 <img width="977" height="934" alt="image" src="https://github.com/user-attachments/assets/b112bdfb-862c-4f2e-af56-e10dff15c039" />
 
 **Bid price prediction**
