@@ -228,7 +228,7 @@ const UserManagement = () => {
                   </div>
                 )}
 
-                {/* Won Auctions */}
+              
                 <div className="bg-gray-50 rounded-lg p-4">
                   <h3 className="text-lg font-semibold text-gray-800 mb-4">
                     Won Auctions ({userDetails.wonAuctions.length})

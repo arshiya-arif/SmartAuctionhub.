@@ -13,19 +13,17 @@ export default function PaymentButton({ auctionId, amount, disabled }) {
     setError(null);
     
     try {
-      // 1. Create Payment Intent
+    
       const { data } = await axios.post('http://localhost:3000/api/payments/create-payment-intent', {
         auctionId
       });
 
-      // 2. Redirect to Stripe Checkout
+    
       const stripe = await stripePromise;
       const { error } = await stripe.confirmCardPayment(data.clientSecret);
 
       if (error) throw error;
-
-      // 3. Payment succeeded (handled by webhook)
-      
+ 
     } catch (err) {
       setError(err.message);
     } finally {

@@ -8,6 +8,7 @@ const predictBid = async (openbid, bidderrate, bidtime_days) => {
     args: [openbid, bidderrate, bidtime_days],
     pythonOptions: ['-u']
   };
+  
 
   try {
     const results = await PythonShell.run('predict.py', options);

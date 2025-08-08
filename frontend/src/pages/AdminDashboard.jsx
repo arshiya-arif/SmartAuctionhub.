@@ -35,7 +35,6 @@ const AdminDashboard = () => {
     return () => window.removeEventListener("resize", handleResize);
   }, []);
 
-  // Automatically close the sidebar on mobile when a tab is clicked
   useEffect(() => {
     if (isMobile) {
       setIsSidebarOpen(false);
