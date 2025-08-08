@@ -2,33 +2,36 @@ Smart AI-Powered AuctionHub is a web-based auction platform that leverages Artif
 
 
 ⚙ Installation & Setup
-1. Clone Repository
+#1. Clone Repository
 ```bash
 git clone https://github.com/arshiya-arif/SmartAuctionhub..git
 cd SmartAuctionhub
 ```
-2.Install Dependencies
+#2.Install Dependencies
 
-# Frontend
+Frontend
 ```
 cd frontend
 npm install
 ```
-# Backend
+Backend
 ```
 cd backend
 npm install
 ```
 
-3.Set Environment Variables
-4.Run Application
+#3.Set Environment Variables
 
-# Backend
+
+
+#4.Run Application
+
+Backend
 ```
 cd backend
 npm run dev
 ```
-# Frontend
+Frontend
 ```
 cd frontend
 npm run dev
