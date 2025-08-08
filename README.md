@@ -50,16 +50,19 @@ npm run dev
 
 
 **Featured Auctions**
-<img width="978" height="635" alt="image" src="https://github.com/user-attachments/assets/1efac3d5-d94a-41a1-923f-af7f469b876d" />**
+<img width="1662" height="1080" alt="UpscaleImage_1_20250808 (1)" src="https://github.com/user-attachments/assets/b07cf87a-fbe3-4edb-bfa5-f5643ae67a04" />
+
 **Live Auctions**
 ![img](https://github.com/user-attachments/assets/a7483329-5331-43b9-9016-1f51fbe9ff5a)
 
 
 
 **AutoBid**
-<img width="2690" height="1080" alt="UpscaleImage_1_20250808" src="https://github.com/user-attachments/assets/fcc7d38b-9672-4a81-b891-dd0c57246458" />
+<img width="2690" height="1080" alt="UpscaleImage_1_20250808" src="https://github.com/user-attachments/assets/e5c3a345-8fc7-45c6-8e8e-d1d295ad29a9" />
 
-<img width="977" height="934" alt="image" src="https://github.com/user-attachments/assets/b112bdfb-862c-4f2e-af56-e10dff15c039" />
+
+<img width="1128" height="1080" alt="UpscaleImage_2_20250808" src="https://github.com/user-attachments/assets/9419f65b-c306-4839-a0bc-cc7d0d6ae30a" />
+
 
 **Bid price prediction**
 <img width="1908" height="903" alt="screenshot-1754653136295" src="https://github.com/user-attachments/assets/e303f227-62c8-4eba-beb8-a30ddb15f521" />
