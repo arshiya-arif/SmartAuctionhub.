@@ -41,15 +41,20 @@ npm run dev
 
 
 **User Registration and Login Page**
-<img width="1956" height="1368" alt="Picture1" src="https://github.com/user-attachments/assets/8ee2d210-0c1d-4685-9f04-e0d7724b23cb" />
-<img width="977" height="471" alt="image" src="https://github.com/user-attachments/assets/67943544-52f8-4983-8276-13bb13d6e38f" />
+<img width="1908" height="903" alt="screenshot-1754653524443" src="https://github.com/user-attachments/assets/ff1e7f48-6706-4fdf-8dca-6b066457c6f7" />
+
+<img width="1908" height="903" alt="screenshot-1754653492897" src="https://github.com/user-attachments/assets/fbaeb24b-238b-43f7-ac4e-fd77dd52cbe1" />
+
 **Home Page (Hero Section)**
-<img width="977" height="471" alt="image" src="https://github.com/user-attachments/assets/6defca7e-4d7d-40f3-8358-43cca6e92d2e" />
+<img width="1908" height="903" alt="screenshot-1754653443068" src="https://github.com/user-attachments/assets/a4210285-a84e-4176-873a-764cd943b3d8" />
+
 
 **Featured Auctions**
 <img width="978" height="635" alt="image" src="https://github.com/user-attachments/assets/1efac3d5-d94a-41a1-923f-af7f469b876d" />**
 **Live Auctions**
-<img width="977" height="799" alt="image" src="https://github.com/user-attachments/assets/cdf030f6-3750-415d-a078-88d50816c7c3" />
+![img](https://github.com/user-attachments/assets/a7483329-5331-43b9-9016-1f51fbe9ff5a)
+
+
 
 **AutoBid**
 <img width="969" height="389" alt="image" src="https://github.com/user-attachments/assets/421b6734-cd71-4c34-b577-a0ad239f5b37" />
